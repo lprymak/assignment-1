@@ -1,4 +1,4 @@
-## Excel KIckstarted Analysis
+## Excel Kickstarter Analysis
 
 Analyze and modify 4000 Kickstarter Projects and Market Trends.
 Images folder contains charts and tables.
